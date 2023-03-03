@@ -27,7 +27,7 @@ http://zer01neday.com/2019/<br>
 ![6](https://user-images.githubusercontent.com/54223902/221042478-909f08bc-6f0b-41cc-b6e1-4558a45ae1f0.png)
 <br>
 <br>
-# Open Source Code
+# 참고했던 오픈소스 
 ## Icicle Bubbles
 
 ![](https://raw.githubusercontent.com/edankwan/Icicle-Bubbles/master/app/images/screenshot.jpg)
